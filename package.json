@@ -31,11 +31,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
         "bootstrap": "4.3.1",
-<<<<<<< HEAD
         "jquery": "^3.5.1",
-=======
-        "jquery": "3.5.0",
->>>>>>> 0d4b2600bc4a492cb7d8f8c16aad063574ca84eb
         "jquery.easing": "^1.4.1",
         "magnific-popup": "^1.1.0"
     },
